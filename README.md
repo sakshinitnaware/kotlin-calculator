@@ -1,5 +1,7 @@
 # Simple Calculator
 
+download the zip file.
+
 ## Output images
 
 Design
