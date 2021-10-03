@@ -2,10 +2,10 @@
 
 ## Output images
 
-`Design`
+Design
 
 ![Design](https://github.com/sakshinitnaware/koylin-calculator/blob/main/design.PNG)
 
-`Output`
+Output
 
 ![Output](https://github.com/sakshinitnaware/koylin-calculator/blob/main/Output%20Calculator.jpgr)
