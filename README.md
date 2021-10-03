@@ -8,4 +8,4 @@ Design
 
 Output
 
-![Output](https://github.com/sakshinitnaware/koylin-calculator/blob/main/Output%20Calculator.jpgr)
+![Output](https://github.com/sakshinitnaware/koylin-calculator/blob/main/Output%20Calculator.jpg)
